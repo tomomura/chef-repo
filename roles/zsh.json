@@ -1,0 +1,6 @@
+{
+  "name": "zsh",
+  "run_list": [
+    "recipe[zsh]"
+  ]
+}

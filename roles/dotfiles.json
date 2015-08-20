@@ -1,0 +1,8 @@
+{
+  "name": "dotfiles",
+  "run_list": [
+    "recipe[vim]",
+    "recipe[tmux]",
+    "recipe[dotfiles]"
+  ]
+}
